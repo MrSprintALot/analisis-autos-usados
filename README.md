@@ -21,7 +21,7 @@ La app forma parte de un sprint del bootcamp de Data Analytics, y fue desplegada
 - Histograma apilado por tipo de auto y modelo
 - Interfaz con botones y visualización dinámica
 
-🔗 [Ver aplicación desplegada en Render](https://analisis-autos-usados.onrender.com)
+🔗 [Ver aplicación desplegada en Render]([https://analisis-autos-usados.onrender.com](https://proyecto7-m2ed.onrender.com)
 
 
 ## 🖥️ Cómo ejecutar localmente
